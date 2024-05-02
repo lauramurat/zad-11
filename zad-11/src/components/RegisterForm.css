@@ -1,0 +1,39 @@
+
+.container {
+    margin-top: 5rem;
+    background-color: #4d9bfc;
+    border-radius: 30px;
+    padding: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.image-col {
+    text-align: center;
+}
+
+.image {
+    width: 450px;
+    height: 450px;
+}
+
+h1 {
+    text-align: center;
+    color: #34417c;
+}
+
+.form-group {
+    margin-bottom: 2rem;
+}
+
+.form-control {
+    border-radius: 5px;
+}
+
+.btn-submit {
+    width: 100%;
+    background-color: #7f8344;
+    border: none;
+}
+
+.btn-submit:hover {
+    background-color: #252a0c;
+}
